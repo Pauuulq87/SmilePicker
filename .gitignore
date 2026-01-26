@@ -1,0 +1,30 @@
+# User specific
+user/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# JavaScript/Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Output
+output/
+*.log
+
+# Build
+dist/
